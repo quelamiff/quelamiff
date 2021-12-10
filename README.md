@@ -1,12 +1,1 @@
-https://cdn.discordapp.com/avatars/770296585615310868/a_1df3064f477290e20c0498e07a2ea742.gif?size=2048
-
-- 👋 Hi, I’m @quelamiff
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-quelamiff/quelamiff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+bonsoir
